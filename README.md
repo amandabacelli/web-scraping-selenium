@@ -1,6 +1,12 @@
 # Web Scraping
 
-Web scraping is an automation application used to organize and collect the URL's and your respective names of Java's course of  [Codenation](https://codenation.dev/login)
+Web scraping is an automation application used to organize and collect the URL's and your respective names of Java's course of  [Codenation](https://codenation.dev/login)  and transform in Xls archive.
+
+## Technologies
+
+* Java 11
+* [Selenium Web Driver](https://www.selenium.dev/projects/)
+* [Apache Poi](https://poi.apache.org/)
 
 ## Installation
 
