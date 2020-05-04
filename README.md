@@ -6,7 +6,7 @@ Web scraping is an automation application used to organize and collect the URL's
 
 * Java 11
 * [Selenium Web Driver](https://www.selenium.dev/projects/)
-* [Apache Poi](https://poi.apache.org/)
+* [Apache Poi](https://poi.apache.org/download.html) - it is necessary download Binary Distribution .zip and add to libraries into project modules
 
 ## Installation
 
